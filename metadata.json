@@ -1,0 +1,6 @@
+{
+  "name": "DARKCART",
+  "description": "Premium luxury border-cross phone marketplace with interactive 3D animations, custom product spec visualizer, secure hidden editor panel, and order fulfillment tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
